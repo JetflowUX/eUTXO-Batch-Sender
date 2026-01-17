@@ -31,7 +31,7 @@ A modern web application for sending multiple Cardano assets and native tokens i
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/adebisijethro/eUTXO-Batch-Sender.git
+git clone https://github.com/JetflowUX/eUTXO-Batch-Sender.git
 cd eUTXO-Batch-Sender
 ```
 
